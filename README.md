@@ -6,3 +6,7 @@ The app was made using Java and JavaFX and it follows the MVC design pattern. Th
 
 ![alt text](https://github.com/Shivangi1296/LetsCountdown/blob/master/src/screenshots/screenshot1.png)
 
+![alt text](https://github.com/Shivangi1296/LetsCountdown/blob/master/src/screenshots/screenshot2.png)
+
+![alt text](https://github.com/Shivangi1296/LetsCountdown/blob/master/src/screenshots/screenshot3.png)
+
